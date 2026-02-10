@@ -27,7 +27,7 @@ Todas as informações são armazenadas temporariamente em uma lista enquanto o 
 
 ## ▶️ Como executar o projeto
 
-1. Certifique-se de ter o **Python instalado** em sua máquina.
+1. Certifique-se de ter o **Python instalado** em sua máquina. 
 
 2. Clone este repositório:
 
